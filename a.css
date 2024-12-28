@@ -1,0 +1,90 @@
+body {
+                        margin: 0;
+                        padding: 0;
+                        font-family: 
+                }
+                #sidebar {
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        width: 19%;
+                        height: 100%;
+                        background-color: black;
+                        color: #164;
+                        padding: 10px;
+                        box-sizing: border-box;
+                }
+                #sidebar h1 {
+                        font-size: 1em;
+                        margin-top: 0;
+                        color: white;
+                }
+                #sidebar ul {
+                        list-style: none;
+                        padding: 0;
+                        margin: 10px 0;
+                }
+                #sidebar li {
+                          font-size: 0.8em;
+                        margin-bottom: 5px;
+                }
+                #sidebar li a {
+                        display: block;
+                        color: #fff;
+                        text-decoration: none;
+                        padding: 5px;
+                        border-radius: 5px;
+                }
+                #sidebar li a:hover {
+                        background-color: #663366;
+                        color:gold;
+                }
+                #content {
+                        margin-left: 80px;
+                        padding: 20px;
+                        box-sizing: border-box;
+                }
+        #diyige {
+          position: fixed;
+                        top: 0;
+                        left: 17%;
+                        width:81%;
+                        height: 100%;
+                        background-color: red;
+                        color: white;
+                        padding: 10px;
+                        box-sizing: borde
+   }
+     #dierge {
+          position: fixed;
+                        top: 0;
+                        left: 17%;
+                        width:81%;
+                        height: 100%;
+                        background-color: white;
+                        color: white;
+                        padding: 10px;
+                        box-sizing: borde
+   }
+     #disange {
+            position: fixed;
+                        top: 0;
+                        left: 17%;
+                        width:81%;
+                        height: 100%;
+                        background-color: white;
+                        color: white;
+                        padding: 10px;
+                        box-sizing: borde
+   }
+ #disige{
+            position: fixed;
+                        top: 0;
+                        left: 17%;
+                        width:81%;
+                        height: 100%;
+                        background-color: white;
+                        color: white;
+                        padding: 10px;
+                        box-sizing: borde 
+   } 
